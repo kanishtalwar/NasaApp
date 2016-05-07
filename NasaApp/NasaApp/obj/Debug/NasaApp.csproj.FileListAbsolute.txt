@@ -1,0 +1,6 @@
+C:\Users\Private\documents\visual studio 2013\XamarinProjects\NasaApp\NasaApp\bin\Debug\NasaApp.exe.config
+C:\Users\Private\documents\visual studio 2013\XamarinProjects\NasaApp\NasaApp\bin\Debug\NasaApp.exe
+C:\Users\Private\documents\visual studio 2013\XamarinProjects\NasaApp\NasaApp\bin\Debug\NasaApp.pdb
+C:\Users\Private\documents\visual studio 2013\XamarinProjects\NasaApp\NasaApp\obj\Debug\NasaApp.exe
+C:\Users\Private\documents\visual studio 2013\XamarinProjects\NasaApp\NasaApp\obj\Debug\NasaApp.pdb
+C:\Users\Private\documents\visual studio 2013\XamarinProjects\NasaApp\NasaApp\obj\Debug\NasaApp.csprojResolveAssemblyReference.cache
